@@ -1,0 +1,11 @@
+test_concat01:
+  K001:
+    name: "张三"
+    nicen: "小白兔"
+    beizu: "是个帅哥"
+    website: "http://52studyit.net"
+  K002:
+    name: "Tom"
+    nicen: "大白兔"
+    beizu: "舔狗"
+    website: "http://baidu.com"
